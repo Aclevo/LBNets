@@ -14,6 +14,12 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
+// TODO: Replace this README.md with the one that was overwritten.
+
+# Fork of Transformers to support in-model thinking.
+
+# Stay in touch with us! **[Join Our Discord](https://discord.gg/C6QVUKnJRq)** or **[Join our Matrix](https://matrix.to/#/#aclevo-general:matrix.org)**
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/transformers-logo-dark.svg">
